@@ -4,3 +4,4 @@
 
 # Interactive widgets don't work yet
 *_interactive.ipynb
+*.backup.ipynb
