@@ -4,4 +4,4 @@ This repository contains supplementary demonstrations and simulations for the te
 
 ## Set-Up
 
-To set up this repository, 
+To set up this repository, you need Python 

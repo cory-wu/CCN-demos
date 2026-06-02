@@ -1,6 +1,8 @@
 # Packages
 .venv
 
+# IDE
+.idea
 
 # Interactive widgets don't work yet
 *_interactive.ipynb
