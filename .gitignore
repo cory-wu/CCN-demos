@@ -4,6 +4,9 @@
 # IDE
 .idea
 
+# Claude
+.claude
+
 # Interactive widgets don't work yet
 *_interactive.ipynb
 *.backup.ipynb
